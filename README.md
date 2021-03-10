@@ -1,2 +1,2 @@
 # XRCenterProtoJay
-For John Roach
+For TNS XR Center and John Roach.
